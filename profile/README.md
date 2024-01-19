@@ -19,7 +19,7 @@ There are multiple ways to use Topics as a search tool.
 2. Use the main search bar to look for your Topic. After running the search, you will initially see all of the public repositories that include your search criteria (whether as a Topic or elsewhere in the repo) across all of GitHub. Use the "Filter by" section on the left side to further restrict your search criteria.
 
 ## Contact Us
-You can find more information and reach out to project associated people via the [River Corridor Team](https://www.pnnl.gov/projects/river-corridor/team) page. The Data Management Team manages the GitHub Organization and their contact information is listed below. 
+The Data Management Team manages the GitHub Organization and their contact information is listed below. 
 - Amy Goldman, amy.goldman@pnnl.gov  
 - Brieanne Forbes, brieanne.forbes@pnnl.gov  
 - Bibi Powers-McCormack, bibi.powers-mccormack@pnnl.gov
